@@ -1,0 +1,19 @@
+{
+	"name": "trie-structure",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": " node trie.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@10.13.1",
+	"dependencies": {
+		"@types/node": "^24.2.1",
+		"biome": "^0.3.3",
+		"typescript": "^5.9.2"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"linter": {
+		"rules": {
+			"style": {
+				"noNonNullAssertion": "off"
+			}
+		}
+	},
+	"javascript": {
+		"formatter": {
+			"jsxQuoteStyle": "single",
+			"semicolons": "always",
+			"quoteStyle": "single"
+		}
+	}
+}
